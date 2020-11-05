@@ -9,7 +9,7 @@ endc
 if DEF(FAITHFUL)
 	db ELECTRIC, ELECTRIC
 else
-	db ELECTRIC, FIGHTING
+	db ELECTRIC, ELECTRIC
 endc
 	db 30 ; catch rate
 	db 199 ; base exp

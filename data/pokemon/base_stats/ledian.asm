@@ -9,7 +9,7 @@ endc
 if DEF(FAITHFUL)
 	db BUG, FLYING
 else
-	db BUG, FIGHTING
+	db BUG, FLYING
 endc
 	db 90 ; catch rate
 	db 134 ; base exp

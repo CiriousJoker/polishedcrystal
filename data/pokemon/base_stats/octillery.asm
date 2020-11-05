@@ -4,7 +4,7 @@
 if DEF(FAITHFUL)
 	db WATER, WATER
 else
-	db WATER, FIRE
+	db WATER, WATER
 endc
 	db 75 ; catch rate
 	db 164 ; base exp

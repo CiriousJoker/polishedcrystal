@@ -4,7 +4,7 @@
 if DEF(FAITHFUL)
 	db FIRE, FIRE
 else
-	db FIRE, FAIRY
+	db FIRE, FIRE
 endc
 	db 60 ; catch rate
 	db 192 ; base exp

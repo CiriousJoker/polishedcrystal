@@ -10,7 +10,7 @@ endc
 if DEF(FAITHFUL)
 	db BUG, FLYING
 else
-	db BUG, PSYCHIC
+	db BUG, FLYING
 endc
 	db 45 ; catch rate
 if DEF(FAITHFUL)

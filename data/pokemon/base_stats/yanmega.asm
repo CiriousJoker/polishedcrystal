@@ -4,7 +4,7 @@
 if DEF(FAITHFUL)
 	db BUG, FLYING
 else
-	db BUG, DRAGON
+	db BUG, FLYING
 endc
 	db 30 ; catch rate
 	db 198 ; base exp

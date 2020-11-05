@@ -9,7 +9,7 @@ endc
 if DEF(FAITHFUL)
 	db NORMAL, NORMAL
 else
-	db NORMAL, GROUND
+	db NORMAL, NORMAL
 endc
 	db 190 ; catch rate
 	db 75 ; base exp
